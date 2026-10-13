@@ -51,6 +51,32 @@ Dữ liệu được chuẩn hóa theo:
 - Hỗ trợ VI / EN / KO
 - Mobile-first
 
+## 📱 Giao diện ứng dụng
+
+### 🏠 Trang chủ
+
+![La Cà Đà Nẵng - Trang chủ](screenshots/home.jpg)
+
+### 🍜 Ăn gì ở Đà Nẵng?
+
+![La Cà Đà Nẵng - Gợi ý ăn gì](screenshots/discovery_eat_where.jpg)
+
+### 📍 Đi đâu ở Đà Nẵng?
+
+![La Cà Đà Nẵng - Gợi ý đi đâu](screenshots/discovery_go_where.jpg)
+
+### 🏨 Ở đâu tại Đà Nẵng?
+
+![La Cà Đà Nẵng - Gợi ý lưu trú](screenshots/discovery_stay_where.jpg)
+
+### ⚡ Bây giờ làm gì?
+
+![La Cà Đà Nẵng - Bây giờ làm gì](screenshots/now.jpg)
+
+### 🌐 Hỗ trợ nhiều ngôn ngữ
+
+![La Cà Đà Nẵng - Đổi ngôn ngữ](screenshots/bottom_change_language.jpg)
+
 ## Mục tiêu
 
 La Cà được xây dựng để giúp người dùng trả lời nhanh câu hỏi:

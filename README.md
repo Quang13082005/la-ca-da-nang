@@ -55,9 +55,9 @@ Dữ liệu được chuẩn hóa theo:
 
 La Cà được xây dựng để giúp người dùng trả lời nhanh câu hỏi:
 
-> **“Bây giờ mình nên đi đâu ở Đà Nẵng?”**
+> **“Bây giờ mình nên đi đâu ở Đà Nẵng?, lịch trình của mình sẽ như thế nào?”**
 
-mà không cần mất nhiều thời gian tìm kiếm.
+mà không cần mất nhiều thời gian tìm kiếm địa điểm, lên lịch trình nhanh chóng.
 
 ## Official Website
 

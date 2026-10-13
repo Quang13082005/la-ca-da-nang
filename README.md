@@ -57,7 +57,7 @@ La Cà được xây dựng để giúp người dùng trả lời nhanh câu h�
 
 > **“Bây giờ mình nên đi đâu ở Đà Nẵng?, lịch trình của mình sẽ như thế nào?”**
 
-mà không cần mất nhiều thời gian tìm kiếm địa điểm, lên lịch trình nhanh chóng.
+mà không cần mất nhiều thời gian tìm kiếm địa điểm, lên lịch trình, kế hoạch đi chơi.
 
 ## Official Website
 
